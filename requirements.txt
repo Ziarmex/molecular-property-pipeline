@@ -1,0 +1,9 @@
+# Core dependencies for molecular property calculation pipeline
+pandas>=2.3.1
+numpy>=2.3.2
+rdkit-pypi>=2025.3.5
+pillow>=11.3.0
+
+# Note: CREST and xTB are external binaries that must be installed separately
+# See README.md for installation instructions
+
